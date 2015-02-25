@@ -1,4 +1,4 @@
-package com.sky.detector.model;
+package com.sky.detector.domain.model;
 
 public class Line {
 	private static final int USER_NAME = 3;

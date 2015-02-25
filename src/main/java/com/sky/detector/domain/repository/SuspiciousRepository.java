@@ -1,4 +1,6 @@
-package com.sky.detector.model;
+package com.sky.detector.domain.repository;
+
+import com.sky.detector.domain.model.Line;
 
 public class SuspiciousRepository {
 

@@ -3,7 +3,7 @@ package com.sky.test;
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.sky.detector.model.Line;
+import com.sky.detector.domain.model.Line;
 
 public class LineTest {
 

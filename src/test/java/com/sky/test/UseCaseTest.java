@@ -3,8 +3,8 @@ package com.sky.test;
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.sky.detector.HackerDetector;
-import com.sky.detector.HackerDetectorImpl;
+import com.sky.detector.adapter.HackerDetector;
+import com.sky.detector.core.HackerDetectorImpl;
 
 public class UseCaseTest {
 	
